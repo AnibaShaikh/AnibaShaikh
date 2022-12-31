@@ -13,5 +13,5 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fEj8oLjc7gwe78PoNL/giphy.gif" width="900" height="300"/>
 </div>
