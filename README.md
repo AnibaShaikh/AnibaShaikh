@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="200" height="50"/>
   </a>
 </div>
-<h1>
-  <img src="https://media.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif" width="800px" height="150"/>
-  #people
-</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="600" height="300"/>
 </div>
