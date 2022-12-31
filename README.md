@@ -3,12 +3,12 @@
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="50" align="right"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="50" align="center"/>
   </a>
   <a href="https://github.com/AnibaShaikh">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" width="200" height="50" align="center"/>
   </a>
   <a href="https://twitter.com/Encoded_Sapien">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="200" height="50" align="left"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="200" height="50" align="center"/>
   </a>
 </div>
