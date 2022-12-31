@@ -25,4 +25,4 @@
   <img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w240-h480" title="HTML" alt="HTML" width="60" height="60"/>
   <img src="https://img.freepik.com/premium-vector/cascading-style-sheets-css-label-high-performance-vector-stock-illustration_100456-8387.jpg?w=740" title="CSS" alt="CSS" width="60" height="60"/></div>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-AnibaShaikh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-AnibaShaikh&layout=compact&theme=vision-friendly-dark)](https://github.com/AnibaShaikh/github-readme-stats)
