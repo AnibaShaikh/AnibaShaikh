@@ -15,10 +15,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="1300" height="400"/>
 </div>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Currently I am experimenting with Typescript. Adept in HTML, CSS and JS.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring BlockChain Computing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Aniba-purple?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail)
