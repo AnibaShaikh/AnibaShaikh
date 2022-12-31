@@ -13,6 +13,9 @@
   </a>
 </div>
 <h1>
-  <img src="https://media.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif" width="760px" height="150"/>
+  <img src="https://media.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif" width="800px" height="150"/>
   #people
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="600" height="300"/>
+</div>
