@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="50"/>
   </a>
   <a href="https://github.com/AnibaShaikh">
-    <img src="https://img.shields.io/badge/Instagram-majenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="200" height="50"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="200" height="50"/>
   </a>
   <a href="https://twitter.com/Encoded_Sapien">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="200" height="50"/>
