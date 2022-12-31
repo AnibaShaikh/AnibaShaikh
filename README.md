@@ -26,6 +26,3 @@
   <img src="https://img.freepik.com/premium-vector/cascading-style-sheets-css-label-high-performance-vector-stock-illustration_100456-8387.jpg?w=740" title="CSS" alt="CSS" width="60" height="60"/></div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnibaShaikh&layout=compact&theme=vision-friendly-dark)](https://github.com/AnibaShaikh/github-readme-stats)
-<footer>
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="1300" height="200"/>
-</footer>
