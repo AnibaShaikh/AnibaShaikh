@@ -23,4 +23,4 @@
 <div>
   <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JavaScript" alt="JavaSript" width="40" height="40"/>
   <img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w240-h480" title="HTML" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></div>
+  <img src="https://img.freepik.com/premium-vector/cascading-style-sheets-css-label-high-performance-vector-stock-illustration_100456-8387.jpg?w=740" title="CSS" alt="CSS" width="40" height="40"/></div>
